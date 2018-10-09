@@ -30,20 +30,20 @@ all docs was gotten from its orignal git server
 
 2. samples
 
-      https://github.com/google/googletest/blob/master/googletest/docs/samples.md
+		https://github.com/google/googletest/blob/master/googletest/docs/samples.md
 
 
 3. etc
 
-     3.1. branch coverage
+		3.1. branch coverage
 
-     http://ltp.sourceforge.net/coverage/lcov/genhtml.1.php
+		http://ltp.sourceforge.net/coverage/lcov/genhtml.1.php
 
-	 ...
-	 ' + ': Branch was taken at least once
-	 ' - ': Branch was not taken
-	 ' # ': The basic block containing the branch was never executed
+		 ...
+		' + ': Branch was taken at least once
+		' - ': Branch was not taken
+		' # ': The basic block containing the branch was never executed
 
 
 
-       
+
