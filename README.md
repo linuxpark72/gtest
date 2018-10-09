@@ -25,7 +25,7 @@ all docs was gotten from its orignal git server
 
 		# open the page below with your web broswer 
 
-		${samples directory}/test_coverage/samples/index.html
+		$ {samples directory}/test_coverage/samples/index.html
 
 
 2. samples
@@ -33,11 +33,9 @@ all docs was gotten from its orignal git server
       https://github.com/google/googletest/blob/master/googletest/docs/samples.md
 
 
-
 3. etc
 
-3.1. branch coverage
-
+     3.1. branch coverage
 
      http://ltp.sourceforge.net/coverage/lcov/genhtml.1.php
 
