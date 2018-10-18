@@ -17,15 +17,24 @@ all docs was gotten from its orignal git server
 
 1. build & test
 
-		# install cmake
 
-		# others :-)
+		1.1. googletest install
 
-		# build.sh {example number}
+		  sudo apt-get install libgtest-dev
+		  sudo apt-get install cmake # install cmake
+		  cd /usr/src/gtest
+		  sudo cmake CMakeLists.txt
+		  sudo make
+		  sudo cp *.a /usr/lib
 
-		# open the page below with your web broswer 
 
-		$ {samples directory}/test_coverage/samples/index.html
+
+
+		1.2. test 
+
+		  # build.sh {example number}
+		  # open the page below with your web broswer 
+		  $ {samples directory}/test_coverage/samples/index.html
 
 
 2. samples
